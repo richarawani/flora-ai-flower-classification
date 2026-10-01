@@ -1,0 +1,4 @@
+{
+    "flower_threshold": 0.85,
+    "validation_balanced_accuracy": 1.0
+}
